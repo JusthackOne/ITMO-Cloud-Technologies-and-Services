@@ -1,1 +1,1 @@
-# ITMO-Cloud-Technologies-and-Services
+# Itmo DevOps Cloud labs
